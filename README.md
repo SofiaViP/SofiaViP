@@ -24,7 +24,7 @@ Over my time at FEUP, I compiled comprehensive lecture notes that have helped co
 | :--- | :--- | :--- |
 | **[DSpec2Test](https://github.com/VeriFixer/DSpec2Test)** | The first specification-driven test generation tool for Dafny, bridging formal verification and testing in order to reduce debugging time. Published in the [ASE 2026](https://conf.researchr.org/home/ase-2026) conference (CORE A*) and currently under review as a [PR in Dafny's repository](https://github.com/dafny-lang/dafny/pull/6508). | **19/20** |
 | **Bosch Future Mobility Challenge** | Trajectory planning algorithms developed for a self-driving vehicle. | **Global Top 20** |
-| **Praggymatics** | Interactive **Human-Computer Interaction** site designed to help children with pragmatic communication impairments. | **30L/30** |
+| **[Praggymatics](https://youtu.be/2LivRO-LVfI)** | Interactive **Human-Computer Interaction** site designed to help children with pragmatic communication impairments. | **30L/30** |
 | **[Prince of Persia](https://github.com/SofiaViP/Prince_of_Persia)** | “Prince of Persia” adaptation in **C** on the **Minix OS**. | **19/20** |
 
 > ***Note**: I also spent time as a Programming Teaching Assistant at FEUP, helping students translate complex logic into understandable concepts!*
@@ -32,8 +32,7 @@ Over my time at FEUP, I compiled comprehensive lecture notes that have helped co
 ---
 ### ⚙️ Tech Stack
 <p align="left">
-  <!-- Core grid: C, C++, C#, Java, Python, MongoDB, Redis, MySQL (for SQL), Docker, Git, GitHub, MacOS (Apple) -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,mongodb,redis,mysql,docker,git,github,apple&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,mongodb,redis,docker,git,github,apple&theme=dark" />
   </a>
 </p>
